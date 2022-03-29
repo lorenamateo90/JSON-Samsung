@@ -1,0 +1,115 @@
+
+{
+    "Lidl":[
+        {
+            "seccion": "fruteria",
+            "productos": [
+                {
+                    "nombre": "piña",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "06/04/2022",
+                        "10/04/2022"
+                    ],
+                    "unidades": 3,
+                    "unidadMedida": "unidades",
+                    "precio": 2
+                },
+                {
+                    "nombre": "mandarinas",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "19/04/2022",
+                        "22/04/2022"
+                    ],
+                    "unidades": 1,
+                    "unidadMedida": "kg",
+                    "precio": 3.60
+                }
+            ]
+        },
+        {
+            "seccion": "pescaderia",
+            "productos": [
+                {
+                    "nombre": "salmon",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "05/04/2022",
+                        "09/04/2022"
+                    ],
+                    "unidades": 2,
+                    "unidadMedida": "kg",
+                    "precio": 6.50
+                },
+                {
+                    "nombre": "mejillones",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "21/04/2022",
+                        "27/04/2022"
+                    ],
+                    "unidades": 1,
+                    "unidadMedida": "kg",
+                    "precio": 5
+                }
+            ]
+        }
+    ],
+    "Aldi":[
+        {
+            "seccion": "fruteria",
+            "productos": [
+                {
+                    "nombre": "tomate rosa",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "04/04/2022",
+                        "16/04/2022"
+                    ],
+                    "unidades": 10,
+                    "unidadMedida": "kg",
+                    "precio": 4.99
+                },
+                {
+                    "nombre": "pepino",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "14/04/2022",
+                        "26/04/2022"
+                    ],
+                    "unidades": 10,
+                    "unidadMedida": "kg",
+                    "precio": 0.66
+                }
+            ]
+        },
+        {
+            "seccion": "carniceria",
+            "productos": [
+                {
+                    "nombre": "costillas",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "22/04/2022",
+                        "30/04/2022"
+                    ],
+                    "unidades": 3,
+                    "unidadMedida": "kg",
+                    "precio": 5.99
+                },
+                {
+                    "nombre": "hamburguesa",
+                    "ofertas":true,
+                    "periodoVigencia":[
+                        "21/04/2022",
+                        "27/04/2022"
+                    ],
+                    "unidades": 6,
+                    "unidadMedida": "unidades",
+                    "precio": 3.55
+                }
+            ]
+        }
+    ]
+}
